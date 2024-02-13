@@ -14,9 +14,9 @@ const FooterComp = () =>{
                 <div className="footer-column">
                     <h5>Infromation Links</h5>
                     <ul className='footer-links'>
-                        <li>
+                        {/* <li>
                             <a href="#">Registration</a>
-                        </li>
+                        </li> */}
                         <li>
                             <a href="#">Contact</a>
                         </li>

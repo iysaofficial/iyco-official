@@ -47,17 +47,15 @@ const NavbarComp = () =>{
                     </ul>
                 </li> */}
                 <li><a href="#about">About</a></li>
-                <li><a href="#" target='_blank'>Guide Book</a></li>
-                <li>
+                {/* <li><a href="#" target='_blank'>Guide Book</a></li> */}
+                {/* <li>
                     <label htmlFor="btn-1" className='show'>Gallery</label>
                     <a href="#">Gallery</a>
                     <input type="checkbox" id='btn-1'/>
                     <ul>
                         <li><a href="" target='_blank'>2023</a></li>
-                        {/* <li><a href="#">Elements</a></li>
-                        <li><a href="#">Icons</a></li> */}
                     </ul>
-                </li>
+                </li> */}
                 <li><a href="#category">Category</a></li>  
                 <li><a href="#contact">Contact</a></li>
             </ul>
