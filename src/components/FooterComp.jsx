@@ -18,10 +18,10 @@ const FooterComp = () =>{
                             <a href="#">Registration</a>
                         </li> */}
                         <li>
-                            <a href="#">Contact</a>
+                            <a href="#contact">Contact</a>
                         </li>
                         <li>
-                            <a href="#">Our Main Website</a>
+                            <a href="https://iysa.or.id">Our Main Website</a>
                         </li>
                     </ul>
                 </div>
@@ -29,17 +29,17 @@ const FooterComp = () =>{
                     <h5>Navigation</h5>
                     <ul className='footer-links'>
                         <li>
-                            <a href="#">Home</a>
+                            <a href="/">Home</a>
                         </li>
                         <li>
-                            <a href="#">About</a>
+                            <a href="#about">About</a>
                         </li>
                         <li>
-                            <a href="#">Guide Book</a>
+                            <a href="https://drive.google.com/file/d/1KHal6e_EFIXEZVbYmm7CBVWbjx1O_58o/view?usp=drive_link" target='_blank'>Guide Book</a>
                         </li>
-                        <li>
+                        {/* <li>
                             <a href="#">Gallery</a>
-                        </li>
+                        </li> */}
                         <li>
                             <a href="#category">Category</a>
                         </li>

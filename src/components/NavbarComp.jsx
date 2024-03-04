@@ -56,7 +56,8 @@ const NavbarComp = () =>{
                         <li><a href="" target='_blank'>2023</a></li>
                     </ul>
                 </li> */}
-                <li><a href="#category">Category</a></li>  
+                <li><a href="#category">Category</a></li>
+                <li><a href="https://drive.google.com/file/d/1KHal6e_EFIXEZVbYmm7CBVWbjx1O_58o/view?usp=drive_link" target='_blank'>Guide Book</a></li>  
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
