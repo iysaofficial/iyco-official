@@ -21,7 +21,7 @@ const FooterComp = () =>{
                             <a href="#contact">Contact</a>
                         </li>
                         <li>
-                            <a href="https://iysa.or.id">Our Main Website</a>
+                            <a href="https://iysa.or.id" target='_blank'>Our Main Website</a>
                         </li>
                     </ul>
                 </div>
