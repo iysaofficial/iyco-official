@@ -8,7 +8,7 @@ const HeroComp = () =>{
                 <p>Registration is now open for the International Youth Chemistry Olympiad! <br /> Join this prestigious event and gain an unforgettable experience!
                 </p>
                 <br />
-                <a href="https://registrasi-iyco.vercel.app/" target="_blank" className="registration-button">Registration</a>
+                <a href="#" target="_blank" className="registration-button">Closed Registration</a>
             </div>
         </section>
         </>
