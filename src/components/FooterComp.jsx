@@ -61,7 +61,7 @@ const FooterComp = () =>{
                         </li>
                         <li>
                             <i className='fas fa-envelope'></i>
-                            <span>youngscientist.iysa@gmail.com</span>
+                            <span>yk.ollympiad@gmail.com</span>
                         </li>
                     </ul>
                     <ul className='social-link-icons'>
