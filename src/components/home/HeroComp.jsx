@@ -8,7 +8,7 @@ const HeroComp = () =>{
                 <p>Registration is now open for the International Youth Chemistry Olympiad! <br /> Join this prestigious event and gain an unforgettable experience!
                 </p>
                 <br />
-                <a href="#" target="_blank" className="registration-button">Closed Registration</a>
+                <a href="#" target="_blank" className="registration-button">Coming Soon 2025</a>
             </div>
         </section>
         </>
