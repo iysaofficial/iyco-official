@@ -45,9 +45,41 @@ const NavbarComp = () =>{
                     <li className='menu-item'><a href="#about">About</a></li>
                     {/* <li className='menu-item'><a href="/#category-main-section">Category</a></li> */}
                     {/* <li className='menu-item'><a href="#">FAQ</a></li> */}
-                    <li className='menu-item'><a href="#category">Category</a></li>
+                    {/* <li className='menu-item'><a href="#category">Category</a></li> */}
                     <li className='menu-item'><a href="https://drive.google.com/file/d/1KHal6e_EFIXEZVbYmm7CBVWbjx1O_58o/view?usp=drive_link" target='_blank'>Guide Book</a></li>
-                    <li className='menu-item'><a href="#contact">Contact</a></li>
+                    {/* <li className='menu-item'><a href="#contact">Contact</a></li> */}
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/16x4XVuEVbvPVqlVdl5FG1t-R_OnBLOJM/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
+                        </ul>
+                    </li>
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1QrdM0O97yCa20Z4EwYaK-i_3nbSo7Kzo/view" target='_blank'>List of Winner 2024</a></li>
+                        </ul>
+                    </li>
+                    {/* <li className='menu-item'>
+                        <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="" target='_blank'>Curation 2024</a></li>
+                        </ul>
+                    </li> */}
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Certificate Supervisor <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/19hFi_DN6XoGkbQVctLeuvc6mvrAxaBJB" target='_blank'>Certificate Supervisor 2024</a></li>
+                        </ul>
+                    </li>
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Gallery <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/1hGdRrLTdK1QvfM_S5b9abJ64Ok8JahVE" target='_blank'>2024</a></li>
+                        </ul>
+                    </li>
+
+
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
 
                     {/* <li className='menu-item'>
