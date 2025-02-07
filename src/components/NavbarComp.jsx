@@ -46,7 +46,7 @@ const NavbarComp = () =>{
                     {/* <li className='menu-item'><a href="/#category-main-section">Category</a></li> */}
                     {/* <li className='menu-item'><a href="#">FAQ</a></li> */}
                     {/* <li className='menu-item'><a href="#category">Category</a></li> */}
-                    <li className='menu-item'><a href="https://drive.google.com/file/d/1KHal6e_EFIXEZVbYmm7CBVWbjx1O_58o/view?usp=drive_link" target='_blank'>Guide Book</a></li>
+                    <li className='menu-item'><a href="https://drive.google.com/file/d/1oTKgi-6BYUVDPh-Mn_K2w86dxGqaAIyO/view?usp=sharing" target='_blank'>Guide Book</a></li>
                     {/* <li className='menu-item'><a href="#contact">Contact</a></li> */}
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
