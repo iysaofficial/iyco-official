@@ -48,24 +48,21 @@ const NavbarComp = () =>{
                     {/* <li className='menu-item'><a href="#category">Category</a></li> */}
                     <li className='menu-item'><a href="https://drive.google.com/file/d/1oTKgi-6BYUVDPh-Mn_K2w86dxGqaAIyO/view?usp=sharing" target='_blank'>Guide Book</a></li>
                     {/* <li className='menu-item'><a href="#contact">Contact</a></li> */}
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/16x4XVuEVbvPVqlVdl5FG1t-R_OnBLOJM/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
                         </ul>
-                    </li>
+                    </li> */}
                     <li className='menu-item'>
-                        <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
-                        <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/file/d/1QrdM0O97yCa20Z4EwYaK-i_3nbSo7Kzo/view" target='_blank'>List of Winner 2024</a></li>
-                        </ul>
+                        <a className='sub-btn' href="/ListOfWinnerAllPage">List of Winner</a>
                     </li>
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1dNw4Hu1TAkXnqcyPoVeOAI4RtHUyBazM?usp=sharing" target='_blank'>Curation 2024</a></li>
                         </ul>
-                    </li>
+                    </li> */}
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Certificate Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
