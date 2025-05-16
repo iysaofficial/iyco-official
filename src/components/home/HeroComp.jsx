@@ -5,10 +5,10 @@ const HeroComp = () =>{
             <div className="hero-container">
                 <img src="./assets/images/logo/IYCO.png" alt=""/>
                 <h1>International Youth Chemistry Olympiad</h1>
-                {/* <p>Registration is now open for the International Youth Chemistry Olympiad! <br /> Join this prestigious event and gain an unforgettable experience!
-                </p> */}
+                <p>Registration is now open for the International Youth Chemistry Olympiad! <br /> Join this prestigious event and gain an unforgettable experience!
+                </p>
                 <br />
-                <a href="#" target="_blank" className="registration-button">Close Registration</a>
+                <a href="https://registration-iyco-2025.vercel.app/" target="_blank" className="registration-button">Registration</a>
             </div>
         </section>
         </>
