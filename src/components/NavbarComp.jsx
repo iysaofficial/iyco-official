@@ -66,13 +66,15 @@ const NavbarComp = () =>{
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Certificate Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/19hFi_DN6XoGkbQVctLeuvc6mvrAxaBJB" target='_blank'>Certificate Supervisor 2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1LF5whS8Cpf87KcP1-A0VYDn-qNkEF1JO?usp=sharing" target='_blank'>Certificate Supervisor 2025</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/19hFi_DN6XoGkbQVctLeuvc6mvrAxaBJB?usp=sharing" target='_blank'>Certificate Supervisor 2024</a></li>
                         </ul>
                     </li>
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Gallery <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/1hGdRrLTdK1QvfM_S5b9abJ64Ok8JahVE" target='_blank'>2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1g_FTKMi1CdUKKFrvOyhysCSKpPtPHCOY?usp=sharing" target='_blank'>2025</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1hGdRrLTdK1QvfM_S5b9abJ64Ok8JahVE?usp=sharing" target='_blank'>2024</a></li>
                         </ul>
                     </li>
 
